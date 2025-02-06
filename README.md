@@ -4,6 +4,8 @@
 
 ゲームディレクトリの `/config/minecart_tracking.json` に追従する速度などが保存されています。
 
+![tracking](.github/assets/tracking.gif)
+
 - Minecraft **1.21**
 - [Fabric Loader](https://fabricmc.net/use/installer/) >= 0.16.10
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) >= 0.102.0
